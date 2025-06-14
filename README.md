@@ -57,18 +57,18 @@
 
  
 ============================================================================================
-FOSS Android app made in Android Studio as project for downloading videos from the internet onto your phone.
+FOSS Android-App made via Android Studio as project for downloading videos from the internet (Youtube, X, Instagram and Facebook) onto your phone.
 
+Based on **YT-DLP** project by **"doe1080"** and **"eason1478"** and insipiration by **"EverydayProgrammer"** on _YT_.
 
-Based on YT-DLP project by "doe1080" and "eason1478" and insipiration by "EverydayProgrammer" on YT.
+_**Beta 0.9**_: _Functioning Downloads_
 
-Beta 0.9: Functioning Downloads
-
-Future Changelog: - Monet Theming (Android 12+).
+Future Changelog: 
+           _- Monet Theming (Android 12+).
            - Light and Dark theme option.
            - Direct paste from clipboard button.
            - New UI/UX implementation.
            - New Splash Screen.
            - Audio/Video seperate downloading options.
            - Usage of "YT-DLP" project for ease of use.
-           - Overall re-design.
+           - Overall re-design._
