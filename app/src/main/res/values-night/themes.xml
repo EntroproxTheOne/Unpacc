@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Base application theme for night mode. -->
+    <style name="Base.Theme.Unpacc" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Override any dark-specific attributes here if needed -->
+        <!-- Example: -->
+        <!-- <item name="colorPrimary">@dynamiccolor/primary_dark</item> -->
+    </style>
+
+    <!-- App theme that inherits from Base Theme -->
+    <style name="Theme.Unpacc" parent="Base.Theme.Unpacc" />
+</resources>

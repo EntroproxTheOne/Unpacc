@@ -1,0 +1,48 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Base.Theme.Unpacc" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <style name="Base.Theme.Unpacc" parent="Theme.AppCompat.DayNight.NoActionBar">
+            <!-- Fallback colors -->
+            <item name="colorPrimary">#FF6200EE</item>
+            <item name="colorPrimaryVariant">#FF3700B3</item>
+            <item name="colorOnPrimary">@android:color/white</item>
+            <item name="elevationOverlayEnabled">true</item>
+        </style>
+
+        <style name="Theme.Unpacc" parent="Base.Theme.Unpacc" />
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_onPrimaryContainer</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/md_theme_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_onSecondaryContainer</item>
+
+        <!-- Background and surface colors -->
+        <item name="android:windowBackground">@color/md_theme_background</item>
+        <item name="colorSurface">@color/md_theme_surface</item>
+        <item name="colorOnSurface">@color/md_theme_onSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_onSurfaceVariant</item>
+
+        <!-- Error colors -->
+        <item name="colorError">@color/md_theme_error</item>
+        <item name="colorOnError">@color/md_theme_onError</item>
+        <item name="colorErrorContainer">@color/md_theme_errorContainer</item>
+        <item name="colorOnErrorContainer">@color/md_theme_onErrorContainer</item>
+
+        <!-- Elevation overlay for dark theme -->
+        <item name="elevationOverlayEnabled">true</item>
+
+        <!-- Force text appearance to avoid errors -->
+        <item name="textAppearanceButton">@style/TextAppearance.AppCompat.Button</item>
+    </style>
+
+    <!-- Main Application Theme -->
+    <style name="Theme.Unpacc" parent="Base.Theme.Unpacc" />
+</resources>
