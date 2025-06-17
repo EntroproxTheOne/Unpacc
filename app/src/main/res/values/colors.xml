@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
     <!-- Primary Colors -->
     <color name="md_theme_primary">#FF006CB5</color>
     <color name="md_theme_onPrimary">#FFFFFFFF</color>
     <color name="md_theme_primaryContainer">#FFD0E4FF</color>
     <color name="md_theme_onPrimaryContainer">#FF001F36</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="white">#FFFFFF</color>
+
     <!-- Secondary Colors -->
     <color name="md_theme_secondary">#FF525FC7</color>
     <color name="md_theme_onSecondary">#FFFFFFFF</color>
@@ -20,7 +18,7 @@
     <color name="md_theme_tertiaryContainer">#FFF0DBFF</color>
     <color name="md_theme_onTertiaryContainer">#FF3B005D</color>
 
-    <!-- Neutral / Background Colors -->
+    <!-- Neutral / Background & Surface Colors -->
     <color name="md_theme_background">#FFFBFAFF</color>
     <color name="md_theme_onBackground">#FF191C1D</color>
     <color name="md_theme_surface">#FFFBFAFF</color>
@@ -33,4 +31,8 @@
     <color name="md_theme_onError">#FFFFFFFF</color>
     <color name="md_theme_errorContainer">#FFFFDAD6</color>
     <color name="md_theme_onErrorContainer">#FF410001</color>
+
+    <!-- Fallback Colors (for older components or testing) -->
+    <color name="purple_500">#FF6200EE</color>
+    <color name="white">#FFFFFF</color>
 </resources>

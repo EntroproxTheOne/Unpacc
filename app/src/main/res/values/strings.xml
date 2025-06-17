@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- App Name -->
     <string name="app_name">Unpacc</string>
+
+    <!-- Toast Messages -->
+    <string name="enter_valid_url">Please enter a valid URL</string>
+    <string name="extraction_failed">There was an error while extracting the video</string>
+    <string name="downloading">Downloading…</string>
+    <string name="download_manager_unavailable">Download failed: Manager unavailable</string>
+    <string name="clipboard_empty">Clipboard is empty</string>
+    <string name="clipboard_no_text">Clipboard does not contain text</string>
+
+    <!-- Video Info Labels -->
+    <string name="title_format">Title: %s</string>
+    <string name="author_format">Channel Name: %s</string>
+    <string name="duration_format">Video Duration: %s</string>
+    <string name="views_format">Views Count: %s</string>
 
     <!-- Settings Screen -->
     <string name="section_theming">Theming</string>
@@ -16,32 +31,17 @@
     <string name="version_info">Version: b0.91-test</string>
     <string name="developed_by">Developed by Entroprox</string>
 
-    <string name="resolution">Resolution</string>
-    <string name="extension">Extension</string>
-    <string name="thumbnail_desc">Video Thumbnail</string>
-    <string name="video_title">Video Title</string>
-    <string name="channel_name">Channel Name</string>
-    <string name="video_duration">Duration</string>
-    <string name="view_count">Views</string>
-    <string name="paste_url_here">Paste video URL here</string>
-    <string name="paste_from_clipboard">Paste from clipboard</string>
-    <string name="enter_valid_url">Please enter a valid URL</string>
-    <string name="extraction_failed">There was an error while extracting the video</string>
-    <string name="downloading">Downloading…</string>
-    <string name="download_manager_unavailable">Download failed: Manager unavailable</string>
-    <string name="clipboard_empty">Clipboard is empty</string>
-    <string name="clipboard_no_text">Clipboard does not contain text</string>
-    <string name="title_format">Title: %s</string>
-    <string name="author_format">Channel Name: %s</string>
-    <string name="duration_format">Video Duration: %s</string>
-    <string name="views_format">Views Count: %s</string>
-    <string name="settings">Settings</string>
-    <string name="paste_from_clipboard_1">Paste from clipboard!</string>
-    <string name="download">Dowload</string>
-    <string name="downloads">Download</string>
+    <!-- Button Text -->
+    <string name="download">Download</string>
     <string name="d">d</string>
-    <item name="download" type="id">download</item>
+    <string name="paste_from_clipboard">Paste from clipboard</string>
+    <string name="settings">Settings</string>
+    <string name="paste_from_clipboard_1">paste\n</string>
+    <string name="paste_url_here">paste_here</string>
+    <string name="downloads">downloads</string>
+    <string name="video_duration">duration</string>
+    <string name="video_title">title</string>
+    <string name="channel_name">name</string>
+    <string name="view_count">views</string>
+    <string name="thumbnail_desc">description</string>
 </resources>
-
-
-
